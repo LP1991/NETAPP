@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\raw\\realm_properties",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\raw\\realm_properties"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\raw\\realm_properties",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\raw\\realm_properties"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\raw\\beep.ogg"
+    }
+]

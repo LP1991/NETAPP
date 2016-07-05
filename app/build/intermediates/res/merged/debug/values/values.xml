@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="color" name="color"/>
+    <attr format="reference" name="icon"/>
+    <attr format="string" name="text"/>
+    <attr format="dimension" name="text_size"/>
+    <color name="avg_rtt">#66c9ff</color>
+    <color name="bg_color">#EDEDED</color>
+    <color name="black">#000</color>
+    <color name="blue">#055EDD</color>
+    <color name="book_blue">#4b8af3</color>
+    <color name="chart_blue_light">#9900b0ff</color>
+    <color name="chart_blue_normal">#AA00b0ff</color>
+    <color name="chart_brown_light">#994e342e</color>
+    <color name="chart_brown_normal">#AA4e342e</color>
+    <color name="chart_green_light">#99558b2f</color>
+    <color name="chart_green_normal">#AA558b2f</color>
+    <color name="chart_red_light">#99e51c23</color>
+    <color name="chart_red_normal">#AAe51c23</color>
+    <color name="chart_teal_light">#991de9b6</color>
+    <color name="chart_teal_normal">#AA1de9b6</color>
+    <color name="chart_violet_light">#99651fff</color>
+    <color name="chart_violet_normal">#AA651fff</color>
+    <color name="chart_yellow_light">#99ef6c00</color>
+    <color name="chart_yellow_normal">#aaef6c00</color>
+    <color name="coffee">#E9967A</color>
+    <color name="contents_text">#ff000000</color>
+    <color name="dialog_alert_btn_blue">#4b8af3</color>
+    <color name="edit_hint_color">#bfbfbf</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="error_background">#64ffd1d1</color>
+    <color name="face_background">#00FFFFFF</color>
+    <color name="font_color_black">#656565</color>
+    <color name="font_color_black2">#515151</color>
+    <color name="function_center_menu_not_selected">#545e6a</color>
+    <color name="function_center_menu_selected">#e75c00</color>
+    <color name="green">#0eca11</color>
+    <color name="grgray">#686868</color>
+    <color name="header">#58567D</color>
+    <color name="help_button_view">#ffcccccc</color>
+    <color name="help_view">#ff404040</color>
+    <color name="hint_text">#77000000</color>
+    <color name="history_btn_choose">#ffffffff</color>
+    <color name="history_check_not_selected">#FFF</color>
+    <color name="history_check_not_selected2">#00000000</color>
+    <color name="history_check_selected">#FF8000</color>
+    <color name="line_color">#999999</color>
+    <color name="list_divider_color">#88FF7F00</color>
+    <color name="list_section">#E0E0E0</color>
+    <color name="list_text">#6B6B6B</color>
+    <color name="listview_selector">#FFFAF4</color>
+    <color name="loss">#ffff6262</color>
+    <color name="main_title_offline">#ffff7148</color>
+    <color name="max_rtt">#ff1aafff</color>
+    <color name="min_rtt">#ffb3e4ff</color>
+    <color name="no_background">@android:color/transparent</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="pull_list_view">#6593cb</color>
+    <color name="result_image_border">#ffffffff</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c000ff00</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="sbc_header_text">#ff808080</color>
+    <color name="sbc_header_view">#ffffffff</color>
+    <color name="sbc_layout_view">#ffffffff</color>
+    <color name="sbc_list_item">#fffff0e0</color>
+    <color name="sbc_page_number_text">#ff000000</color>
+    <color name="sbc_snippet_text">#ff4b4b4b</color>
+    <color name="send">#545e6a</color>
+    <color name="share_text">#ff000000</color>
+    <color name="share_view">#ffffffff</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="status_view">#50000000</color>
+    <color name="success_background">#64eaffd1</color>
+    <color name="title">#4b00f7ff</color>
+    <color name="title_color_1">#666666</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="workList_listView_end">#ff91cbe7</color>
+    <color name="workList_listView_pressed_end">#ff35aae7</color>
+    <color name="workList_listView_pressed_start">#ff35aae7</color>
+    <color name="workList_listView_selected_end">#ff35aae7</color>
+    <color name="workList_listView_selected_start">#ff35aae7</color>
+    <color name="workList_listView_start">#ff91cbe7</color>
+    <color name="workList_listView_text">#ff6B6B6B</color>
+    <declare-styleable name="ChangeColorIconView"><attr name="icon"/><attr name="color"/><attr name="text"/><attr name="text_size"/></declare-styleable>
+    <declare-styleable name="CircleImageView"><attr format="dimension" name="border_width"/><attr format="color" name="border_color"/><attr format="boolean" name="border_overlay"/></declare-styleable>
+    <declare-styleable name="SegmentControl"><attr format="dimension|reference" name="cornerRadius"/><attr format="color|reference" name="colors"/><attr format="string|reference" name="texts"/><attr name="android:textSize"/><attr format="enum" name="direction"><enum name="horizon" value="0"/><enum name="vertical" value="1"/></attr><attr format="dimension|reference" name="gaps"/><attr format="dimension|reference" name="horizonGap"/><attr format="dimension|reference" name="verticalGap"/><attr format="integer" name="selectedIndex"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fragment_text_margin">16dp</dimen>
+    <dimen name="wifi_list_padding">5dp</dimen>
+    <item name="auto_focus" type="id"/>
+    <item name="decode" type="id"/>
+    <item name="decode_failed" type="id"/>
+    <item name="decode_succeeded" type="id"/>
+    <item name="encode_failed" type="id"/>
+    <item name="encode_succeeded" type="id"/>
+    <item name="fillOrderLayoutPhone" type="id">false</item>
+    <item name="fillOrderLayoutUC" type="id">false</item>
+    <item name="fillOrderLine" type="id">false</item>
+    <item name="launch_product_query" type="id"/>
+    <item name="quit" type="id"/>
+    <item name="restart_preview" type="id"/>
+    <item name="return_scan_result" type="id"/>
+    <item name="search_book_contents_failed" type="id"/>
+    <item name="search_book_contents_succeeded" type="id"/>
+    <item name="toolLayout" type="id">false</item>
+    <integer name="oneLine">1</integer>
+    <string name="ac_eoc_funtion_set_ipmode">上网方式</string>
+    <string name="ac_eoc_funtion_set_staticip">静态Ip</string>
+    <string name="action_login_in">登录</string>
+    <string name="action_probe__start">开始Ping</string>
+    <string name="action_probe__stop">停止Ping</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_diagnosis_config">配置文件下载</string>
+    <string name="activity_diagnosis_updata">升级下载的接口</string>
+    <string name="activity_title_diagnosis">诊断</string>
+    <string name="activity_title_history">历史工单查询</string>
+    <string name="activity_title_workDetail">工单详情</string>
+    <string name="activity_title_workList">工单查询结果</string>
+    <string name="activity_work_details_accept">接受</string>
+    <string name="activity_work_details_done">处理</string>
+    <string name="activity_work_details_fail">无法解决</string>
+    <string name="activity_work_details_refuse">拒绝</string>
+    <string name="activity_work_details_updata">结果上报</string>
+    <string name="ap_name">TZ1000</string>
+    <string name="ap_password">12345678</string>
+    <string name="app_name">移动网管</string>
+    <string name="approximately_symbol">~</string>
+    <string name="checkbox_remember">自动登录</string>
+    <string name="error_dialog">不能为空</string>
+    <string name="error_different_password">两次输入不一致</string>
+    <string name="error_field_required">请输入用户名</string>
+    <string name="error_incorrect_password">密码不正确</string>
+    <string name="error_invalid_email">请输入正确的用户名</string>
+    <string name="error_invalid_password">密码不能为空</string>
+    <string name="error_invalid_target_ip">IP地址不合法</string>
+    <string name="fragment_first_title">用户信息</string>
+    <string name="fragment_second_title">故障描述</string>
+    <string name="fragment_third_title">路线建议</string>
+    <string name="greater_equal_symbol"> >=</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lower_equal_symbol">&lt;=</string>
+    <string name="ping_avg_rtt">平均时延：</string>
+    <string name="ping_ip_address">Ping地址：</string>
+    <string name="ping_lost_package">丢包数：</string>
+    <string name="ping_max_rtt">最大时延：</string>
+    <string name="ping_min_rtt">最小时延：</string>
+    <string name="ping_rtt_mean">时延平均偏差值：</string>
+    <string name="ping_send_package">发包数：</string>
+    <string name="ping_service">Ping服务</string>
+    <string name="prompt_password">密码</string>
+    <string name="prompt_userName">用户名</string>
+    <string name="pull_to_refresh">下拉刷新</string>
+    <string name="refresh_fail">刷新失败</string>
+    <string name="refresh_succeed">刷新成功</string>
+    <string name="refreshing">正在刷新...</string>
+    <string name="release_to_refresh">释放立即刷新</string>
+    <string name="soft_update_cancel">取消</string>
+    <string name="soft_update_info">检测到新版本，立即更新吗</string>
+    <string name="soft_update_later">稍后更新</string>
+    <string name="soft_update_no">已经是最新版本</string>
+    <string name="soft_update_title">软件更新</string>
+    <string name="soft_update_updatebtn">更新</string>
+    <string name="soft_updating">正在更新</string>
+    <string name="target_ip_input_label">目标地址：</string>
+    <string name="wh_err_bit_rate">&lt;=1E-6</string>
+    <string name="wifi_detail_ap_mac">Ap MAC：</string>
+    <string name="wifi_detail_button">Ping测试</string>
+    <string name="wifi_detail_dns1">DNS1：</string>
+    <string name="wifi_detail_dns2">DNS2：</string>
+    <string name="wifi_detail_gate">网关：</string>
+    <string name="wifi_detail_info">状态消息：</string>
+    <string name="wifi_detail_ip">IP地址：</string>
+    <string name="wifi_detail_location_mac">本机MAC：</string>
+    <string name="wifi_detail_net_hint">网络掩码：</string>
+    <string name="wifi_detail_safe">安全性：</string>
+    <string name="wifi_detail_speed">连接速度：</string>
+    <string name="wifi_detail_ssid">SSID：</string>
+    <string name="wifi_detail_strong">信号强度：</string>
+    <string name="wifi_speedtest_avg">平均值：</string>
+    <string name="wifi_speedtest_button">测速</string>
+    <string name="wifi_speedtest_down">下载速率</string>
+    <string name="wifi_speedtest_max">峰值：</string>
+    <string name="wifi_speedtest_up">上传速率</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:windowNoTitle">true</item>
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="CustomDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+    </style>
+    <style name="CustomProgressDialog" parent="@style/CustomDialog">
+        <item name="android:windowFrame">@null</item><!--边框-->
+        <item name="android:windowIsFloating">true</item><!--是否浮现在activity之上-->
+        <item name="android:windowIsTranslucent">false</item><!--半透明-->
+        <item name="android:windowNoTitle">true</item><!--无标题-->
+        <item name="android:windowBackground">@android:color/transparent</item><!--背景透明-->
+        <item name="android:backgroundDimEnabled">false</item><!--模糊-->
+    </style>
+    <style name="text_blue_16_singleLine">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffa1d3f7</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="text_white_16_singleLine">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="transcutestyle" parent="@android:style/Theme.Dialog">
+		<item name="android:windowFrame">@android:color/transparent</item><!--边框-->
+		<item name="android:windowIsFloating">true</item><!--是否浮现在activity之上-->
+		<item name="android:windowIsTranslucent">true</item><!--半透明-->
+		<item name="android:windowNoTitle">true</item><!--无标题-->
+		<item name="android:windowBackground">@android:color/transparent</item><!--背景透明-->
+		<item name="android:backgroundDimAmount">0.3</item>
+        <item name="android:windowAnimationStyle">@null</item>
+     </style>
+    <style name="weibo_html_style">
+        <item name="android:layout_width">35dp</item>
+        <item name="android:layout_height">35dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:button">@null</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:textColor">@drawable/tab_selector_tv_color</item>
+        <item name="android:gravity">center_horizontal</item>
+        <!-- <item name="android:background">@drawable/tab_selector_bg</item> -->
+        <item name="android:layout_margin">1dip</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:singleLine">true</item>
+    </style>
+</resources>

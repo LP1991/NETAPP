@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+
+    <LinearLayout
+        android:id="@+id/topLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <include layout="@layout/workdetails_title"/>
+
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/topLayout"
+        android:orientation="vertical">
+               
+		<com.cloudvision.tanzhenv2.order.tabLayout.SlidingTabLayout
+            android:id="@+id/tabLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <com.cloudvision.tanzhenv2.order.deal.NoScrollViewPager
+            android:id="@+id/pager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+        
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/line_btn_one"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/line_btn_two"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_work_yes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/styles_button_main"
+            android:onClick="onClick"
+            android:text="@string/activity_work_details_accept"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/btn_work_no"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/styles_button_main"
+            android:onClick="onClick"
+            android:text="@string/activity_work_details_refuse"
+            android:textSize="16sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/line_btn_two"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <Button
+            android:id="@+id/btn_work_done"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/styles_button_main"
+            android:onClick="onClick"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="@string/activity_work_details_done"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/btn_work_up"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/styles_button_main"
+            android:onClick="onClick"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="@string/activity_work_details_updata"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/btn_work_fail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/styles_button_main"
+            android:onClick="onClick"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="@string/activity_work_details_fail"
+            android:textSize="16sp" />
+
+    </LinearLayout>
+
+</RelativeLayout>

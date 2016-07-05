@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipToPadding="false"
+    android:fitsSystemWindows="true"
+    android:orientation="horizontal">
+    
+    <ImageView  
+       android:id="@+id/user_list_item_icon"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+	   android:layout_gravity="center_vertical"
+       android:layout_marginLeft="10dp"
+       android:src="@drawable/login_1" />  
+
+    <EditText
+        android:id="@+id/user_list_item_ed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="6dp"
+        android:maxLength="30"
+        android:maxLines="1"
+        android:hint=""
+        android:paddingBottom="5dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="5dp" />
+
+</LinearLayout>

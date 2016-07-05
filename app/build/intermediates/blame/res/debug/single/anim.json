@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotating.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\anim\\rotating.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\reverse_anim.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\anim\\reverse_anim.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotating.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\anim\\rotating.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\reverse_anim.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\anim\\reverse_anim.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\loading_progress_round.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\anim\\loading_progress_round.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\loading_progress_round.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\anim\\loading_progress_round.xml"
+    }
+]

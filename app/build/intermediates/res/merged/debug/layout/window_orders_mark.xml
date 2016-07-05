@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ac_map"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/styles_border"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/tv_infoAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="6dp"
+        android:singleLine="false"
+        android:text=""
+        android:textColor="#000000"
+        android:textSize="16sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_details"
+            android:layout_width="70dp"
+            android:layout_height="40dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/styles_button_main"
+            android:text="详情"
+            android:textColor="#000000"
+            android:textSize="14sp" />
+
+        <Button
+            android:id="@+id/btn_accept"
+            android:layout_width="70dp"
+            android:layout_height="40dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/styles_button_main"
+            android:text="接单"
+            android:textColor="#000000"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+
+</LinearLayout>

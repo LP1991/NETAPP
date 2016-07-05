@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Primo\.gradle\caches\modules-2\files-2.1\javax.servlet\javax.servlet-api\3.1.0\3cd63d075497751784b2fa84be59432f4905bf7c\javax.servlet-api-3.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3cd63d075497751784b2fa84be59432f4905bf7c">
+        <dex dex="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\build\intermediates\pre-dexed\debug\javax.servlet-api-3.1.0_40c8848ef1051c003294994f4fb33d1d32f9d1fd.jar" />
+    </item>
+    <item
+        jar="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\build\intermediates\pre-dexed\debug\xUtils-2.6.14_b23b184d5486200c96978d22527aa8e304617025.jar" />
+    </item>
+    <item
+        jar="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\libs\log4j-1.2.15.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f0a0d2e29ed910808c33135a3a5a51bba6358f7b">
+        <dex dex="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\build\intermediates\pre-dexed\debug\log4j-1.2.15_73c2be20f2012cf7c68632af5ffae691c7ce25ba.jar" />
+    </item>
+    <item
+        jar="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\libs\gson-2.7.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\build\intermediates\pre-dexed\debug\gson-2.7_3793eef1179f64e333aaec02baa37b100b0920da.jar" />
+    </item>
+    <item
+        jar="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\libs\slf4j-api-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b353147a7d51fcfcd818d8aa6784839783db0915">
+        <dex dex="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\build\intermediates\pre-dexed\debug\slf4j-api-1.6.0_df717edca7c7d0c7ed82bb046d325d568fd950e7.jar" />
+    </item>
+    <item
+        jar="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e20febe85d354fce8aa27e87cedef6d22707b2eb">
+        <dex dex="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\build\intermediates\pre-dexed\debug\BaiduLBS_Android_2266752a31ee041de7dd6976f13ba2d50b7fdc82.jar" />
+    </item>
+    <item
+        jar="C:\Users\Primo\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient-android\4.3.5\82edcaec6c7b4599eaeaaf11167ceea41db42f33\httpclient-android-4.3.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82edcaec6c7b4599eaeaaf11167ceea41db42f33">
+        <dex dex="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\build\intermediates\pre-dexed\debug\httpclient-android-4.3.5_871e534f110862141b44b24b3532213230ee067d.jar" />
+    </item>
+    <item
+        jar="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\libs\slf4j-log4j12-1.6.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="eafed03e8c462b52b332368e08bbe305cfc12d51">
+        <dex dex="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\build\intermediates\pre-dexed\debug\slf4j-log4j12-1.6.1_50f68a4e0bf676ce6434badbba5c09fa50c9aab9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Primo\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.5\e7501a1b34325abb00d17dde96150604a0658b54\httpcore-4.4.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e7501a1b34325abb00d17dde96150604a0658b54">
+        <dex dex="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\build\intermediates\pre-dexed\debug\httpcore-4.4.5_855c63a869b5c807b976a67ec3a413b7817cd94c.jar" />
+    </item>
+    <item
+        jar="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\libs\com.umeng.message.lib_v2.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="07e1a16b2f1de5c5b7dcce270beec5a9719c7866">
+        <dex dex="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\build\intermediates\pre-dexed\debug\com.umeng.message.lib_v2.4.1_012971776c28d1f5a21c6fce56698a22633023a1.jar" />
+    </item>
+    <item
+        jar="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\libs\mpandroidchartlibrary-2-1-5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a7650f11d4eb03995f4450562cc271d5f790c992">
+        <dex dex="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\build\intermediates\pre-dexed\debug\mpandroidchartlibrary-2-1-5_d488224be84a267e50a3c211d7c77ff53473315f.jar" />
+    </item>
+    <item
+        jar="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\libs\commons-net-3.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cd0d5510908225f76c5fe5a3f1df4fa44866f81e">
+        <dex dex="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\build\intermediates\pre-dexed\debug\commons-net-3.3_82af0c35b309ae03190c0d3aac5b9bb28b139e6b.jar" />
+    </item>
+    <item
+        jar="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\libs\BASE64.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f80edc977b5165ff7c451e1c6b94de9f25d7e41f">
+        <dex dex="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\build\intermediates\pre-dexed\debug\BASE64_a77aee09a2d5c0f4024d094ccbbeaf618d49bf2e.jar" />
+    </item>
+    <item
+        jar="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ded9acc6a9792b8f1afc470f0c9cd36d178914cd">
+        <dex dex="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\build\intermediates\pre-dexed\debug\android-support-v4_d224f9682d59dc9d9540ca92b68f0c9a7dc7bd52.jar" />
+    </item>
+    <item
+        jar="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\libs\android.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ceeccd32333e774db0d262563c4e81410cdff340">
+        <dex dex="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\build\intermediates\pre-dexed\debug\android_f7cd152d12dfb8427e68e580c693264d130fbb03.jar" />
+    </item>
+    <item
+        jar="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\libs\httpclient-4.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6d220441ca681dddc55a189eae81a437309128b8">
+        <dex dex="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\build\intermediates\pre-dexed\debug\httpclient-4.4_9aa3c0235ed3668d9c49f153fe868cd9c5507a5a.jar" />
+    </item>
+    <item
+        jar="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\libs\universal-image-loader-1.9.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.4_5ae26808e9342a3584ae2ae52dd22ceb9e4ec728.jar" />
+    </item>
+    <item
+        jar="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\libs\hellocharts-library-1.5.8.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="700944cb3a8ce4fe543cfac1a9146a11cbf702dc">
+        <dex dex="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\build\intermediates\pre-dexed\debug\hellocharts-library-1.5.8_10812161a8a23f1fbcd0f83a37c086d722985417.jar" />
+    </item>
+    <item
+        jar="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\libs\core.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="42fd0eaeee98eb9e1c8cfbcef742a34b54522c4c">
+        <dex dex="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\build\intermediates\pre-dexed\debug\core_8a9a226f298205478aed2f084e98c51fb0bc598d.jar" />
+    </item>
+    <item
+        jar="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\libs\achartengine-1.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\build\intermediates\pre-dexed\debug\achartengine-1.1.0_e56ea641f2f7e8aee8f72ab3662498f972b51958.jar" />
+    </item>
+    <item
+        jar="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\libs\httpclient-android-4.3.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="03e9c22a371d865d23cc7aba1835045fddb39563">
+        <dex dex="D:\work\NMS\CLIENT\NMS\CLIENT\pri-branch\NETAPP\app\build\intermediates\pre-dexed\debug\httpclient-android-4.3.5_60cd891fd7ac4c121efb52a46a2cf974b41dff1f.jar" />
+    </item>
+
+</items>

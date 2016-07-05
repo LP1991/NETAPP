@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"  
+    android:layout_width="fill_parent"  
+    android:layout_height="wrap_content"  
+    android:minHeight="40dp"
+    android:orientation="horizontal"   
+    android:padding="5dip">  
+ 
+    <TextView  
+       android:layout_width="0dp"
+       android:layout_height="wrap_content"
+       android:layout_weight="0.8"
+       android:gravity="center" 
+       android:layout_gravity="center"  
+       android:textColor="@color/list_text"
+       android:text="序号"
+       android:textSize="13dp"
+       /> 
+       <TextView  
+       android:layout_width="0dp"
+       android:layout_height="wrap_content"
+       android:layout_weight="2"  
+       android:gravity="center" 
+       android:layout_gravity="center"  
+       android:textColor="@color/list_text"
+       android:text="告警时间"
+       android:textSize="13dp"
+       /> 
+       <TextView   
+       android:layout_width="0dp"
+       android:layout_height="wrap_content"
+       android:layout_weight="2"  
+       android:gravity="center" 
+       android:layout_gravity="center"  
+       android:textColor="@color/list_text"
+       android:text="处理意见"
+       android:textSize="13dp"
+       /> 
+  
+</LinearLayout> 

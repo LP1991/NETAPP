@@ -1,0 +1,43 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.1"
+
+    defaultConfig {
+        applicationId "com.cloudvision.emsapp"
+        minSdkVersion 14
+        targetSdkVersion 23
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/achartengine-1.1.0.jar')
+    compile files('libs/BaiduLBS_Android.jar')
+    compile files('libs/BASE64.jar')
+    compile files('libs/com.umeng.message.lib_v2.4.1.jar')
+    compile files('libs/commons-net-3.3.jar')
+    compile files('libs/core.jar')
+    compile files('libs/hellocharts-library-1.5.8.jar')
+    compile files('libs/mpandroidchartlibrary-2-1-5.jar')
+    compile files('libs/universal-image-loader-1.9.4.jar')
+    compile files('libs/xUtils-2.6.14.jar')
+    compile files('libs/slf4j-log4j12-1.6.1.jar')
+    compile files('libs/slf4j-api-1.6.0.jar')
+    compile files('libs/gson-2.7.jar')
+    compile files('libs/log4j-1.2.15.jar')
+    compile files('libs/android-support-v4.jar')
+    compile 'javax.servlet:javax.servlet-api:3.1.0'
+    compile 'org.apache.httpcomponents:httpcore:4.4.5'
+    compile files('libs/httpclient-4.4.jar')
+    compile 'org.apache.httpcomponents:httpclient-android:4.3.5'
+    compile files('libs/httpclient-android-4.3.5.jar')
+    compile files('libs/android.jar')
+}

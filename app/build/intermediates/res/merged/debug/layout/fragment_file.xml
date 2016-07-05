@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+	 <LinearLayout
+        android:id="@+id/topLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        >
+        <include layout="@layout/file_title"/>
+
+    </LinearLayout>
+    
+	 <GridView 
+ 	        android:layout_marginTop="7dp"
+	        android:id="@+id/gridview_file"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:gravity = "center_vertical|center_horizontal"
+	        android:numColumns="3"    
+			android:columnWidth="100dp"
+			android:stretchMode="columnWidth"
+	        ></GridView>
+
+</LinearLayout>

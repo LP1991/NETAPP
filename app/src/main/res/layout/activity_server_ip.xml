@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@android:color/white"
+    >
+ 	<LinearLayout
+        android:id="@+id/topLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <include layout="@layout/common_title"/>
+
+    </LinearLayout>
+    
+ 	<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+        
+ 	    <EditText 
+	    	  	android:id="@+id/ip"
+	    	  	android:layout_width="match_parent"
+	    		android:layout_height="40dp"
+	    		android:layout_marginTop="30dp"
+	    		android:layout_marginLeft="10dp"
+	    		android:layout_marginRight="10dp"
+	    		android:textSize="15dp"
+	    		android:gravity="center"
+	    		android:textColor="@color/font_color_black"
+			android:hint="输入服务器IP"
+			android:maxLines="@integer/oneLine"
+			android:minLines="@integer/oneLine" />
+ 	    
+ 	    <EditText
+ 	       	 	android:id="@+id/port"
+	    	  	android:layout_width="match_parent"
+	    		android:layout_height="40dp"
+	    		android:layout_marginTop="10dp"
+	    		android:layout_marginLeft="10dp"
+	    		android:layout_marginRight="10dp"
+	    		android:textSize="15dp"
+	    		android:gravity="center"
+	    		android:textColor="@color/font_color_black"
+			android:hint="输入服务端口号"
+			android:inputType="number"
+			android:maxLines="@integer/oneLine"
+			android:minLines="@integer/oneLine" />
+ 	    
+ 	    <Button
+        android:id="@+id/saveBtn"
+        android:layout_marginTop="20dp"
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/button_corner_bg" 
+        android:textColor="@color/white"
+        android:text="保存"/>
+        
+
+    </LinearLayout>
+    
+</LinearLayout>

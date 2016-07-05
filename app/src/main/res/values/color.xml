@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="title">#FF7F00</color>-->
+    <color name="title">#4b00f7ff</color>
+    <!--<color name="title">#00e6ff</color>-->
+    <color name="white">#FFFFFF</color>
+    <color name="list_section">#E0E0E0</color>
+    <color name="list_text">#6B6B6B</color>
+    
+    <color name="title_color_1">#666666</color>
+	<color name="line_color">#999999</color>
+	<color name="edit_hint_color">#bfbfbf</color>
+	<color name="font_color_black">#656565</color>
+	<color name="font_color_black2">#515151</color>
+	<color name="book_blue">#4b8af3</color>
+	<color name="listview_selector">#FFFAF4</color>
+	
+	 <color name="coffee">#E9967A</color>
+
+
+
+<color name="dialog_alert_btn_blue">#4b8af3</color>
+
+	<!-- 工单部分的color -->
+	<color name="workList_listView_start">#ff91cbe7</color>
+    <color name="workList_listView_end">#ff91cbe7</color>
+    <color name="workList_listView_selected_start">#ff35aae7</color>
+    <color name="workList_listView_selected_end">#ff35aae7</color>
+    <color name="workList_listView_pressed_start">#ff35aae7</color>
+    <color name="workList_listView_pressed_end">#ff35aae7</color>
+    <color name="workList_listView_text">#ff6B6B6B</color>
+
+    <color name="history_btn_choose">#ffffffff</color>
+
+    <color name="main_title_offline">#ffff7148</color>
+    
+    <color name="pull_list_view">#6593cb</color>
+    <color name="list_divider_color">#88FF7F00</color>
+    
+    <color name="face_background">#00FFFFFF</color>
+    
+    <color name="hint_text">#77000000</color>
+    
+    <color name="success_background">#64eaffd1</color>
+    <color name="error_background">#64ffd1d1</color>
+    <color name="no_background">@android:color/transparent</color>
+    <color name="min_rtt">#ffb3e4ff</color>
+    <color name="max_rtt">#ff1aafff</color>
+    <color name="avg_rtt">#66c9ff</color>
+    <color name="loss">#ffff6262</color>
+    
+    <!-- 图标的循环色	 -->
+    <color name="chart_red_normal">#AAe51c23</color>
+    <color name="chart_violet_normal">#AA651fff</color>
+    <color name="chart_blue_normal">#AA00b0ff</color>
+    <color name="chart_green_normal">#AA558b2f</color>
+    <color name="chart_yellow_normal">#aaef6c00</color>
+    <color name="chart_brown_normal">#AA4e342e</color>
+    <color name="chart_teal_normal">#AA1de9b6</color>
+    
+    <color name="chart_red_light">#99e51c23</color>
+    <color name="chart_violet_light">#99651fff</color>
+    <color name="chart_blue_light">#9900b0ff</color>
+    <color name="chart_green_light">#99558b2f</color>
+    <color name="chart_yellow_light">#99ef6c00</color>
+    <color name="chart_brown_light">#994e342e</color>
+    <color name="chart_teal_light">#991de9b6</color>
+    
+</resources>

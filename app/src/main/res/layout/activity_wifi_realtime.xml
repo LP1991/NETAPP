@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <LinearLayout
+        android:id="@+id/topLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        >
+        <include layout="@layout/wifitest_title"/>
+
+    </LinearLayout>
+    
+    <Spinner  
+        android:id="@+id/wifi_select"  
+        android:layout_width="match_parent"  
+        android:layout_height="wrap_content"  
+        android:layout_margin="5dp"
+        android:visibility="gone" /> 
+    
+    <com.github.mikephil.charting.charts.LineChart
+        android:id="@+id/lineChart"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="2dp"/>
+
+</LinearLayout>

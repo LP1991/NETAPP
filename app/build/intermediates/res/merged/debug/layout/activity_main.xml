@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:style="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+	<FrameLayout
+        android:id="@+id/framelayout"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+    </FrameLayout>
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:background="@drawable/tabbg"
+        android:orientation="horizontal" >
+
+        <com.cloudvision.ui.tabitem.ChangeColorIconWithTextView
+            android:id="@+id/id_indicator_one"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:padding="5dp"
+            style:icon="@drawable/main"
+            style:text="首页"
+            style:text_size="12sp" />
+
+        <!--<com.cloudvision.ui.tabitem.ChangeColorIconWithTextView-->
+            <!--android:id="@+id/id_indicator_two"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="fill_parent"-->
+            <!--android:layout_weight="1"-->
+            <!--android:padding="5dp"-->
+            <!--style:icon="@drawable/test"-->
+            <!--style:text="测试"-->
+            <!--style:text_size="12sp" />-->
+<!--
+        <com.cloudvision.ui.tabitem.ChangeColorIconWithTextView
+            android:id="@+id/id_indicator_three"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:padding="5dp"
+            style:icon="@drawable/map"
+            style:text="地图"
+            style:text_size="12sp" />
+
+        <com.cloudvision.ui.tabitem.ChangeColorIconWithTextView
+            android:id="@+id/id_indicator_four"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:padding="5dp"
+            style:icon="@drawable/file"
+            style:text="文件"
+            style:text_size="12sp" /> -->
+    </LinearLayout>
+
+</LinearLayout>

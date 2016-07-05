@@ -1,0 +1,722 @@
+[
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wifitest_detail_table.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\wifitest_detail_table.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_view_pager_charts.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\fragment_view_pager_charts.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wifitest_title.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\wifitest_title.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_deviceinfo.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\fragment_deviceinfo.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wifilist_ltem.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\wifilist_ltem.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_worklist_details.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\activity_worklist_details.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_title.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\user_title.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\softupdate_progress.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\softupdate_progress.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\activity_set.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_list_item_logo.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\user_list_item_logo.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide_main.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\activity_guide_main.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wifitest_detail_table.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\wifitest_detail_table.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_password.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\edit_password.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_main.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\zxing_main.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_worklist.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\activity_worklist.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_list_funtion_item.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\main_list_funtion_item.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifilist.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\activity_wifilist.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_camera.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\zxing_camera.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\window_orders_mark.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\window_orders_mark.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\warning_list_info.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\warning_list_info.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\netmanager_3.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\netmanager_3.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_title.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\test_title.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\worklist_title.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\worklist_title.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\set_list_item_shot_tag.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\set_list_item_shot_tag.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_list_notice_item.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\main_list_notice_item.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_main.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\zxing_main.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\webview_activity.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\webview_activity.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wifi_select_item.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\wifi_select_item.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\activity_user.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\window_orders_location.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\window_orders_location.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\workdetails_dialog.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\workdetails_dialog.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_camera.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\zxing_camera.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scan_result_item.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\scan_result_item.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifi_realtime.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\activity_wifi_realtime.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifi_detail.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\activity_wifi_detail.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\workdetails_fragment_user.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\workdetails_fragment_user.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_server_ip.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\activity_server_ip.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifitest.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\activity_wifitest.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\workdetails_fragment_map.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\workdetails_fragment_map.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifi_ping.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\activity_wifi_ping.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webview.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\workdetails_dialog.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\workdetails_dialog.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\warning_list_info.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\warning_list_info.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bitmap.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\fragment_bitmap.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\netmanager_3.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\netmanager_3.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\set_ap_pwd_page.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\set_ap_pwd_page.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_netinfo.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\fragment_netinfo.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\topology_list_tag.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\topology_list_tag.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\topology_list_tag.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\topology_list_tag.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_file.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\activity_file.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\activity_user.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_title.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\map_title.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_test.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\fragment_test.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_list_funtion_item.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\test_list_funtion_item.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bitmap.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\fragment_bitmap.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_list_grid_item.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\main_list_grid_item.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\history_title.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\history_title.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_file.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\fragment_file.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wifilist_ltem.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\wifilist_ltem.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_head.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\refresh_head.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_map.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\fragment_map.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\workdetails_title.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\workdetails_title.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\webview_activity.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\webview_activity.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\historydetails_title.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\historydetails_title.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start_main.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\activity_start_main.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\channelpower.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\channelpower.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_linkinfo.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\fragment_linkinfo.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\workdetails_fragment_trouble.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\workdetails_fragment_trouble.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_list_edit.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\login_list_edit.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_history_details.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\activity_history_details.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\netmanager_4.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\netmanager_4.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wifitest_title.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\wifitest_title.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_title.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\home_title.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_username.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\edit_username.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\window_orders_mark.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\window_orders_mark.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start_main.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\activity_start_main.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\netmanager_4.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\netmanager_4.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\workdetails_fragment_trouble.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\workdetails_fragment_trouble.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\file_title.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\file_title.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\updatefile_title.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\updatefile_title.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\file_title.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\file_title.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifi_level.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\activity_wifi_level.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_dialog_alert_one_btn.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\app_dialog_alert_one_btn.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\set_list_item.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\set_list_item.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_history_details.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\activity_history_details.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_view_pager_charts.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\fragment_view_pager_charts.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\set_list_item_shot_tag.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\set_list_item_shot_tag.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\netmanager_2.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\netmanager_2.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\activity_set.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\channelpower.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\channelpower.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_list_button.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\login_list_button.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\window_orders_location.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\window_orders_location.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webview.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_map.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\fragment_map.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\set_list_item.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\set_list_item.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifi_realtime.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\activity_wifi_realtime.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_list_grid_item.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\main_list_grid_item.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_deviceinfo.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\fragment_deviceinfo.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_history.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_title.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\map_title.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifi_detail.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\activity_wifi_detail.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifi_channel.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\activity_wifi_channel.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\netmanager_1.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\netmanager_1.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\softupdate_progress.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\softupdate_progress.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\historydetails_title.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\historydetails_title.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\warning_list_tag.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\warning_list_tag.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_dialog_alert_two_btn.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\app_dialog_alert_two_btn.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_title.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\common_title.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading_progress_dialog.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\loading_progress_dialog.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_history.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_suggest_return.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\edit_suggest_return.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_list_edit.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\login_list_edit.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_title.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\user_title.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\netmanager_1.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\netmanager_1.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifitest.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\activity_wifitest.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pwd_dialog.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\pwd_dialog.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifi_level.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\activity_wifi_level.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_level.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\activity_level.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_title.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\login_title.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_dialog_alert_two_btn.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\app_dialog_alert_two_btn.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\workdetails_fragment_user.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\workdetails_fragment_user.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_head.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\refresh_head.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_server_ip.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\activity_server_ip.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifi_ping.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\activity_wifi_ping.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_worklist.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\activity_worklist.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_net_warning.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\activity_net_warning.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\topology_list_info.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\topology_list_info.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_file.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\fragment_file.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_list_item.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\user_list_item.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_netmanager.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\activity_netmanager.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_linkinfo.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\fragment_linkinfo.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pwd_dialog.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\pwd_dialog.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_list_item.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\user_list_item.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_list_funtion_item.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\main_list_funtion_item.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_dialog_alert_one_btn.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\app_dialog_alert_one_btn.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_list_notice_item.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\main_list_notice_item.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_password.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\edit_password.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_list_funtion_item.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\test_list_funtion_item.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_suggest_return.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\edit_suggest_return.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading_progress_dialog.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\loading_progress_dialog.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\history_title.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\history_title.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifilist.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\activity_wifilist.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\netmanager_2.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\netmanager_2.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_list_button.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\login_list_button.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\warning_list_tag.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\warning_list_tag.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\set_list_item_tag.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\set_list_item_tag.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\worklist_view.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\worklist_view.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_title.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\test_title.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_test.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\fragment_test.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_list_item_logo.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\user_list_item_logo.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_level.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\activity_level.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\worklist_title.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\worklist_title.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scan_result_item.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\scan_result_item.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide_main.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\activity_guide_main.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\topology_list_info.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\topology_list_info.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_title.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\home_title.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_netmanager.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\activity_netmanager.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_username.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\edit_username.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_file.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\activity_file.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\worklist_view.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\worklist_view.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wifi_select_item.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\wifi_select_item.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_title.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\common_title.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\workdetails_title.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\workdetails_title.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\updatefile_title.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\updatefile_title.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_worklist_details.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\activity_worklist_details.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_net_warning.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\activity_net_warning.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\set_ap_pwd_page.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\set_ap_pwd_page.xml"
+    },
+    {
+        "merged": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\set_list_item_tag.xml",
+        "source": "E:\\androidDoc&tool\\practice\\NETAPP\\app\\src\\main\\res\\layout\\set_list_item_tag.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifi_channel.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\activity_wifi_channel.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_netinfo.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\fragment_netinfo.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\workdetails_fragment_map.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\workdetails_fragment_map.xml"
+    },
+    {
+        "merged": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_title.xml",
+        "source": "D:\\work\\NMS\\CLIENT\\NMS\\CLIENT\\pri-branch\\NETAPP\\app\\src\\main\\res\\layout\\login_title.xml"
+    }
+]

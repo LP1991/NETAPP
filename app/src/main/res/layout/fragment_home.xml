@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <LinearLayout
+        android:id="@+id/topLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <include layout="@layout/home_title"/>
+    </LinearLayout>
+    
+    <LinearLayout
+        android:id="@+id/mainLayout"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        >
+<!--         <android.support.v4.view.ViewPager
+            android:id="@+id/adViewPager"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+        <android.support.v4.view.ViewPager
+            android:id="@+id/adViewPager1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.2"/>
+        <android.support.v4.view.ViewPager
+            android:id="@+id/adViewPager2"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1.2"/> -->
+            
+        <com.cloudvision.ui.viewpager.AutoScrollViewPager
+            android:id="@+id/view_pager_advert"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1.51" />
+        <ListView  
+        	android:id="@+id/main_list"  
+        	android:layout_width="match_parent"  
+        	android:layout_height="0dp" 
+        	android:layout_weight="1.03">
+    </ListView>
+            
+    </LinearLayout>
+
+</LinearLayout>

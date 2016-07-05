@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<LinearLayout  
+  xmlns:android="http://schemas.android.com/apk/res/android"  
+  android:layout_width="200dip"
+  android:layout_height="180dip" 
+  android:gravity="center_vertical|center_horizontal"
+  android:orientation="vertical"
+  android:background="@drawable/toast_bg"
+  >
+    <ImageView  
+        android:id="@+id/loadingImageView"  
+        android:layout_width="wrap_content"  
+        android:layout_height="wrap_content"
+        android:background="@anim/loading_progress_round"/>  
+    <TextView  
+        android:layout_marginTop="10dp"
+        android:id="@+id/id_tv_loadingmsg"  
+        android:layout_width="wrap_content"  
+        android:layout_height="wrap_content"  
+        android:text="请稍候."
+        android:textColor="@color/white"
+        android:textSize="20sp"/>  
+</LinearLayout>  

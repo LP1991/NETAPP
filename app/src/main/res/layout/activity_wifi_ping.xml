@@ -1,0 +1,296 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <LinearLayout
+        android:id="@+id/topLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <include layout="@layout/wifitest_title"/>
+
+    </LinearLayout>
+    
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" >
+
+    <LinearLayout
+        android:id="@+id/input_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="3dp"
+    	android:paddingBottom="3dp"
+        android:orientation="horizontal"
+        android:layout_marginBottom="15dp"
+        android:gravity="center"
+        android:background="@drawable/layout_corner_bg" >
+
+        <TextView
+            android:id="@+id/target_ip_input_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/target_ip_input_label"
+            android:layout_marginLeft="15dp"
+            android:enabled="true"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:paddingRight="10dp" />
+
+        <TextView
+            android:id="@+id/target_ip_input_tv"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.59"
+            android:padding="1dp"
+            android:layout_margin="5dp"
+            android:textSize="18sp"
+            android:textColor="@color/font_color_black"
+            android:background="#00ffffff"
+            android:visibility="gone" />
+        
+        <EditText
+            android:id="@+id/target_ip_input"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.59"
+            android:singleLine="true"
+            android:padding="1dp"
+            android:layout_margin="5dp"
+            android:background="#00ffffff"
+            android:hint="" />
+        
+    </LinearLayout>
+
+   	<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        android:layout_weight="4"
+       	android:background="@drawable/layout_corner_bg">
+
+        <LinearLayout 
+            android:layout_width="match_parent"
+        	android:layout_height="wrap_content"
+        	android:orientation="horizontal"
+        	android:layout_marginTop="15dp" >
+        	
+            <TextView 
+	    	  	android:layout_width="0dp"
+	    		android:layout_height="wrap_content"
+	    		android:layout_weight="1"
+	    		android:layout_marginLeft="10dp"
+	    		android:text="@string/ping_ip_address"  
+	    		android:textSize="14dp"
+	    		android:gravity="right"
+	    		android:textColor="@color/font_color_black" />
+            
+            <TextView
+		        android:id="@+id/ip_address"
+		        android:layout_width="0dp"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="1"
+		        android:layout_marginLeft="20dp"
+		        android:text="" 
+				android:textSize="14dp"
+				android:gravity="left"
+	    		android:textColor="@color/font_color_black" />
+            
+        </LinearLayout>
+        
+        <LinearLayout 
+            android:layout_width="match_parent"
+        	android:layout_height="wrap_content"
+        	android:orientation="horizontal"
+        	android:layout_marginTop="10dp" >
+            
+            <TextView 
+	    	  	android:layout_width="0dp"
+	    		android:layout_height="wrap_content"
+	    		android:layout_weight="1"
+	    		android:layout_marginLeft="10dp"
+	    		android:text="@string/ping_send_package"  
+	    		android:textSize="14dp"
+	    		android:gravity="right"
+	    		android:textColor="@color/font_color_black" />
+            
+            <TextView
+		        android:id="@+id/send_package"
+		        android:layout_width="0dp"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="1"
+		        android:layout_marginLeft="20dp"
+		        android:text="" 
+				android:textSize="14dp"
+				android:gravity="left"
+	    		android:textColor="@color/font_color_black" />
+            
+        </LinearLayout>
+        
+        <LinearLayout 
+            android:layout_width="match_parent"
+        	android:layout_height="wrap_content"
+        	android:orientation="horizontal"
+        	android:layout_marginTop="10dp" >
+            
+            <TextView 
+	    	  	android:layout_width="0dp"
+	    		android:layout_height="wrap_content"
+	    		android:layout_weight="1"
+	    		android:layout_marginLeft="10dp"
+	    		android:text="@string/ping_lost_package"  
+	    		android:textSize="14dp"
+	    		android:gravity="right"
+	    		android:textColor="@color/font_color_black" />
+            
+            <TextView
+		        android:id="@+id/lost_package"
+		        android:layout_width="0dp"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="1"
+		        android:layout_marginLeft="20dp"
+		        android:text="" 
+				android:textSize="14dp"
+				android:gravity="left"
+	    		android:textColor="@color/font_color_black" />
+            
+        </LinearLayout>
+        
+        <LinearLayout 
+            android:layout_width="match_parent"
+        	android:layout_height="wrap_content"
+        	android:orientation="horizontal"
+        	android:layout_marginTop="10dp" >
+            
+            <TextView 
+	    	  	android:layout_width="0dp"
+	    		android:layout_height="wrap_content"
+	    		android:layout_weight="1"
+	    		android:layout_marginLeft="10dp"
+	    		android:text="@string/ping_min_rtt"  
+	    		android:textSize="14dp"
+	    		android:gravity="right"
+	    		android:textColor="@color/font_color_black" />
+            
+            <TextView
+		        android:id="@+id/min_rtt"
+		        android:layout_width="0dp"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="1"
+		        android:layout_marginLeft="20dp"
+		        android:text="" 
+				android:textSize="14dp"
+				android:gravity="left"
+	    		android:textColor="@color/font_color_black" />
+            
+        </LinearLayout>
+        
+        <LinearLayout 
+            android:layout_width="match_parent"
+        	android:layout_height="wrap_content"
+        	android:orientation="horizontal"
+        	android:layout_marginTop="10dp" >
+            
+            <TextView 
+	    	  	android:layout_width="0dp"
+	    		android:layout_height="wrap_content"
+	    		android:layout_weight="1"
+	    		android:layout_marginLeft="10dp"
+	    		android:text="@string/ping_max_rtt"  
+	    		android:textSize="14dp"
+	    		android:gravity="right"
+	    		android:textColor="@color/font_color_black" />
+            
+            <TextView
+		        android:id="@+id/max_rtt"
+		        android:layout_width="0dp"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="1"
+		        android:layout_marginLeft="20dp"
+		        android:text="" 
+				android:textSize="14dp"
+				android:gravity="left"
+	    		android:textColor="@color/font_color_black" />
+            
+        </LinearLayout>
+        
+        <LinearLayout 
+            android:layout_width="match_parent"
+        	android:layout_height="wrap_content"
+        	android:orientation="horizontal"
+        	android:layout_marginTop="10dp" >
+            
+            <TextView 
+	    	  	android:layout_width="0dp"
+	    		android:layout_height="wrap_content"
+	    		android:layout_weight="1"
+	    		android:layout_marginLeft="10dp"
+	    		android:text="@string/ping_avg_rtt"  
+	    		android:textSize="14dp"
+	    		android:gravity="right"
+	    		android:textColor="@color/font_color_black" />
+            
+            <TextView
+		        android:id="@+id/avg_rtt"
+		        android:layout_width="0dp"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="1"
+		        android:layout_marginLeft="20dp"
+		        android:text="" 
+				android:textSize="14dp"
+				android:gravity="left"
+	    		android:textColor="@color/font_color_black" />
+            
+        </LinearLayout>
+        
+        <LinearLayout 
+            android:layout_width="match_parent"
+        	android:layout_height="wrap_content"
+        	android:orientation="horizontal"
+        	android:layout_marginTop="10dp" >
+            
+            <TextView 
+	    	  	android:layout_width="0dp"
+	    		android:layout_height="wrap_content"
+	    		android:layout_weight="1"
+	    		android:layout_marginLeft="10dp"
+	    		android:text="@string/ping_rtt_mean"  
+	    		android:textSize="14dp"
+	    		android:gravity="right"
+	    		android:textColor="@color/font_color_black" />
+            
+            <TextView
+		        android:id="@+id/rtt_mean"
+		        android:layout_width="0dp"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="1"
+		        android:layout_marginLeft="20dp"
+		        android:text="" 
+				android:textSize="14dp"
+				android:gravity="left"
+	    		android:textColor="@color/font_color_black" />
+            
+        </LinearLayout>
+
+  	</LinearLayout>
+
+    <Button
+        android:id="@+id/ping_action_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/button_corner_bg" 
+	    android:textColor="@color/white"
+        android:text="@string/action_probe__start"   
+        android:onClick="onPingButtonClicked"
+        android:minHeight="45dp" />
+
+</LinearLayout>
+</LinearLayout>
